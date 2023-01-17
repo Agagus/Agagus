@@ -10,13 +10,21 @@
 
 
 
-
-<h3 align="left">Connect with me:</h3>
-
-- :email: agus.zanetti4@gmail.com
-
-
 <h3 align="left">Lenguajes y herramientas:</h3>
 
 - Javascript
 - React
+- Redux, Redux Toolkit
+- NodeJs
+- Express
+- HTML
+- CSS
+- SQL
+
+
+
+<h3 align="left">Contactate conmigo:</h3>
+
+- :email: <a href="mailto:agus.zanett@gmail.com">agus.zanetti4@gmail.com</a>
+- :iphone: <a href="https://msng.link/o/?Agustina Zanetti=tg">Telegram</a>
+- :bust_in_silhouette: <a href="https://www.linkedin.com/in/agustina-zanetti-4b7a67204/">LinkedIn</a>
