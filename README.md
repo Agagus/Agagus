@@ -14,6 +14,7 @@
 
 - Javascript
 - React
+- NextJs
 - Redux, Redux Toolkit
 - NodeJs
 - Express
