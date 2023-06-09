@@ -1,4 +1,3 @@
-<img width="100%" height="auto" src="https://media.licdn.com/dms/image/D4D16AQE4H6NMvvWlug/profile-displaybackgroundimage-shrink_350_1400/0/1666096816363?e=1679529600&v=beta&t=n5Ucnpuy9b7Gc3uz4ETSzqqE61GA66CxzFKhmvqhMPM" height="175px"/>
 <h1 align="center">Hola 👋, soy Agus!</h1>
 <h3 align="center">Soy desarrolladora web Full Stack</h3>
 
@@ -15,7 +14,7 @@
 - Javascript
 - React
 - NextJs
-- Redux, Redux Toolkit
+- Redux
 - NodeJs
 - Express
 - HTML
