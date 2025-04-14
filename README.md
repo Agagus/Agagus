@@ -4,6 +4,8 @@
 - Mi primer acercamiento al mundo tech fue durante la cursada de la carrera de licenciatura en biotecnología, donde aprendí la base de Python :books:
 
 - Luego decidí dedicarme de lleno a capacitarme en este enorme universo IT :computer:
+  
+- Hoy en día me encuentro cursando la Tecnicatura Universitaria en Tecnologías Web en la Universidad Nacional del Oeste
 
 - Soy una persona que disfruta de la buena compañia, y el trabajo en equipo :muscle:
 
