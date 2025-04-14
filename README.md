@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, soy Agus!</h1>
-<h3 align="center">Soy desarrolladora web Full Stack</h3>
 
 - Mi primer acercamiento al mundo tech fue durante la cursada de la carrera de licenciatura en biotecnología, donde aprendí la base de Python :books:
 
